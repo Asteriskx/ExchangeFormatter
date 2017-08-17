@@ -46,17 +46,18 @@ namespace ExchangeFormat
         {
             try
             {
-                var grepPath = Grep.Text;
+                var grepPath = "@" + Grep.Text;
 
                 // ファイル名検索の実行
-                files = GrepFiles(@"C:\Users\Asterisk\Desktop\test\", "aa", "*.jpg-large", false);
+                files = GrepFiles(grepPath, "aa", OldFormat.Text, false);
 
                 // 結果の表示
                 foreach (string f in files)
                 {
                     WriteLine(f);
-                    // 拡張子を".jpg"に変更する
-                    // 2番目の引数は、"jpg"でも".jpg"でもどちらでも..
+                    
+                    // 拡張子を任意の拡張子に変更する
+                    // 2番目の拡張子に当たる引数は、ピリオドを省いても構わない。
                     string newName = Path.ChangeExtension(f, NewFormat.Text);
 
                     // 実際にファイル名を変更する
