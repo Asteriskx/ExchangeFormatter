@@ -1,0 +1,8 @@
+C:\Users\Asterisk\documents\visual studio 2015\Projects\ExchangeFormat\ExchangeFormat\bin\Debug\ExchangeFormat.exe.config
+C:\Users\Asterisk\documents\visual studio 2015\Projects\ExchangeFormat\ExchangeFormat\bin\Debug\ExchangeFormat.exe
+C:\Users\Asterisk\documents\visual studio 2015\Projects\ExchangeFormat\ExchangeFormat\bin\Debug\ExchangeFormat.pdb
+C:\Users\Asterisk\documents\visual studio 2015\Projects\ExchangeFormat\ExchangeFormat\obj\Debug\ExchangeFormat.Form1.resources
+C:\Users\Asterisk\documents\visual studio 2015\Projects\ExchangeFormat\ExchangeFormat\obj\Debug\ExchangeFormat.Properties.Resources.resources
+C:\Users\Asterisk\documents\visual studio 2015\Projects\ExchangeFormat\ExchangeFormat\obj\Debug\ExchangeFormat.csproj.GenerateResource.Cache
+C:\Users\Asterisk\documents\visual studio 2015\Projects\ExchangeFormat\ExchangeFormat\obj\Debug\ExchangeFormat.exe
+C:\Users\Asterisk\documents\visual studio 2015\Projects\ExchangeFormat\ExchangeFormat\obj\Debug\ExchangeFormat.pdb
